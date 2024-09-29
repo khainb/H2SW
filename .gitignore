@@ -135,7 +135,6 @@ wandb/
 *.pt
 *.pth
 *.jpg
-*.png
 *.npy
 *data
 *.txt
